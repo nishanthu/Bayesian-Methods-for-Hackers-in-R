@@ -1,0 +1,4 @@
+Bayesian Methods for Hackers in R
+---------------------------------
+
+
